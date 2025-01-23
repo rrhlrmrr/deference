@@ -90,11 +90,14 @@ function Header() {
                   DE-FERENCE 2025: Proof of Contribution
                 </Heading>
               </div>
-              <div className="w-[712px] sm:w-full text-center">
+              <div className="w-[750px] sm:w-full text-center">
                 <Paragraph className="mt-[16px]">
-                  서울대학교 블록체인 학회 디사이퍼에서 개최하는 제 7회
-                  디퍼런스에 여러분을 초대합니다. 블록체인 산업의 건전한 성장에
-                  기여하는 디사이퍼의 미션에 함께하세요!
+                  De-Ference 2025: Towards a Seamless Future
+                  <br />
+                  서울대 블록체인 학회에서 주최하는 제 8회 디퍼런스에 여러분을
+                  초대합니다. <br />
+                  블록체인과 AI의 융합이 열어가는 새로운 시대, 디사이퍼와 함께
+                  알아가는 시간을 가져보세요!
                 </Paragraph>
               </div>
               <div className="mt-[54px] relative flex items-center justify-center">

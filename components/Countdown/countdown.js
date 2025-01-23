@@ -88,7 +88,7 @@ function Countdowns() {
     }
   };
   return (
-    <div className="mt-[400px] sm:mt-[150px] flex items-center justify-between">
+    <div className="mt-[360px] sm:mt-[150px] flex items-center justify-between">
       <div className="h-[40px]">
         <div className="home-title" ref={locationRef}>
           <span className="text-[25px] sm:text-[18px] text-white font-bold">

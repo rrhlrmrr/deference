@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 0,
+        "natscale": 600,
+        "labelrank": 3,
+        "featurecla": "Admin-0 capital",
+        "name": "Seoul",
+        "namepar": null,
+        "namealt": null,
+        "diffascii": 0,
+        "nameascii": "Seoul",
+        "adm0cap": 1,
+        "capalt": null,
+        "capin": null,
+        "worldcity": 1,
+        "megacity": 1,
+        "sov0name": "Republic of Korea",
+        "sov_a3": "KOR",
+        "adm0name": "Korea",
+        "adm0_a3": "KOR",
+        "adm1name": "Seoul",
+        "iso_a2": "KR",
+        "note": null,
+        "latitude": 37.5665,
+        "longitude": 126.978,
+        "changed": 0,
+        "namediff": 0,
+        "diffnote": null,
+        "pop_max": 9904000,
+        "pop_min": 11177,
+        "pop_other": 7142744,
+        "rank_max": 13,
+        "rank_min": 6,
+        "geonameid": 2988507,
+        "meganame": "Seoul",
+        "ls_name": "Seoul",
+        "ls_match": 1,
+        "checkme": 0,
+        "min_zoom": 1.7
+      },
+      "bbox": [126.764484, 37.425963, 127.18359, 37.715133],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.978, 37.5665]
+      }
+    }
+  ],
+  "bbox": [
+    -175.220564477617, -41.2999878536917, 179.216647094029, 64.1500236197392
+  ]
+}

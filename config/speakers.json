@@ -9,6 +9,212 @@
     "city": "2025",
     "agenda": [
       {
+        "session": "파트1",
+        "type": "Part 01"
+      },
+      {
+        "time": "11:00 AM - 11:10 AM",
+        "type": "Opening Ceremony"
+      },
+      {
+        "time": "11:10 AM - 11:40 AM",
+        "session": "디사이퍼 세션",
+        "speaker": 10,
+        "type": "Keynote Speech"
+      },
+      {
+        "time": "11:40 AM - 12:15 PM",
+        "session": "Team: 디사이퍼",
+        "speaker": 1,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "12:15 PM - 12:50 PM",
+        "session": "Team: 디사이퍼",
+        "speaker": 5,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "12:50 PM - 1:40 PM",
+        "session": "",
+        "type": "Lunch & Networking"
+      },
+      {
+        "session": "파트2",
+        "type": "Part 02"
+      },
+      {
+        "time": "1:40 PM - 2:10 PM",
+        "session": "디사이퍼2",
+        "speaker": 8,
+        "type": "Keynote Speech"
+      },
+      {
+        "time": "2:10 PM - 2:45 PM",
+        "session": "디사이퍼2",
+        "speaker": 3,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "2:45 PM - 3:20 PM",
+        "session": "디사이퍼2",
+        "speaker": 7,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "3:20 PM - 3:50 PM",
+        "session": "디사이퍼2",
+        "speaker": [12, 13, 14, 15],
+        "type": "Panel Discussion"
+      },
+      {
+        "time": "3:50 PM - 4:10 PM",
+        "session": "",
+        "type": "Break"
+      },
+      {
+        "session": "파트3",
+        "type": "Part 03"
+      },
+      {
+        "time": "4:10 PM - 4:40 PM",
+        "session": "디사이퍼3",
+        "speaker": 9,
+        "type": "Keynote Speech"
+      },
+      {
+        "time": "4:40 PM - 5:15 PM",
+        "session": "디사이퍼3",
+        "speaker": 6,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "5:15 PM - 5:50 PM",
+        "session": "디사이퍼3",
+        "speaker": 4,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "5:50 PM - 6:20 PM",
+        "session": "디사이퍼3",
+        "speaker": [2, 11, 16, 17],
+        "type": "Panel Discussion"
+      },
+      {
+        "time": "6:20 PM - 6:30 PM",
+        "session": "",
+        "type": "Closing Remarks"
+      }
+    ],
+    "lists": [
+      {
+        "name": "김상엽",
+        "title": "President of Decipher",
+        "img": "/img/speakers/kim-sangyeop.png"
+      },
+
+      {
+        "name": "박찬우",
+        "title": "Vice President of Decipher",
+        "img": "/img/speakers/park-chanwoo.jpeg"
+      },
+
+      {
+        "name": "강민영",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/kang-minyoung.jpeg"
+      },
+
+      {
+        "name": "유인선",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/yoo-insun.png"
+      },
+
+      {
+        "name": "윤정수",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/yoon-jeongsoo.jpeg"
+      },
+
+      {
+        "name": "장재석",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/jang-jaeseok.png"
+      },
+
+      {
+        "name": "진수민",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/jin-sumin.jpeg"
+      },
+
+      {
+        "name": "장기덕",
+        "title": "Product Lead & Co-Founder of ATIV",
+        "img": "/img/speakers/jang-gideok.jpeg"
+      },
+
+      {
+        "name": "한주만",
+        "title": "CTO of A41",
+        "img": "/img/speakers/han-jooman.jpeg"
+      },
+
+      {
+        "name": "김남웅",
+        "title": "CEO of Four Pillars",
+        "img": "/img/speakers/kim-namwoong.jpeg"
+      },
+
+      {
+        "name": "장혁수",
+        "title": "Infrastructure Team Lead at A41",
+        "img": "/img/speakers/jang-hyeoksoo.jpeg"
+      },
+
+      {
+        "name": "김태완",
+        "title": "CEO of Superwalk",
+        "img": "/img/speakers/kim-taewan.jpeg"
+      },
+
+      {
+        "name": "문건기",
+        "title": "CEO of Haechi Labs",
+        "img": "/img/speakers/moon-gungi.jpeg"
+      },
+
+      {
+        "name": "이승화",
+        "title": "Research Lead at Despread",
+        "img": "/img/speakers/lee-seunghwa.jpeg"
+      },
+
+      {
+        "name": "이병헌",
+        "title": "Software Engineer at CPLabs",
+        "img": "/img/speakers/lee-byeonghun.jpeg"
+      },
+
+      {
+        "name": "김재원",
+        "title": "Research Lead at Xangle",
+        "img": "/img/speakers/kim-jaewon.jpeg"
+      },
+
+      {
+        "name": "변주웅",
+        "title": "Product Manager at Four Pillars",
+        "img": "/img/speakers/byeon-joowoong.jpeg"
+      }
+    ]
+  },
+  {
+    "location": "Deference",
+    "city": "2024",
+    "agenda": [
+      {
         "session": "블록체인 생태계에 공헌하다.",
         "type": "Part 01"
       },

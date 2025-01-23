@@ -9,7 +9,7 @@ import { useMediaQuery } from "react-responsive";
 import Countdowns from "../Countdown/countdown";
 
 function Header() {
-  const isTablet = useMediaQuery({ maxWidth: "1118px" });
+  const isTablet = useMediaQuery({ maxWidth: 1118 });
   if (typeof window !== "undefined") Globe = require("react-globe.gl").default;
   const globeEl = useRef();
   const [places, setPlaces] = useState(cities.features);
@@ -19,7 +19,6 @@ function Header() {
   </svg>`;
 
   useEffect(() => {
-    // Auto-rotate
     globeEl.current.controls().autoRotate = true;
     globeEl.current.controls().autoRotateSpeed = 2;
     globeEl.current.controls().enableZoom = false;
@@ -74,8 +73,8 @@ function Header() {
               }}
               globeImageUrl="https://raw.githubusercontent.com/vasturiano/react-globe.gl/master/example/clouds/clouds.png"
               backgroundColor="rgba(0,0,0,0)"
-              width="700px"
-              height="700px"
+              width={700}
+              height={700}
             />
           </div>
         </div>

@@ -46,7 +46,7 @@ function Navbar() {
               <div className="flex items-center cursor-pointer w-[60px]">
                 <img src="/img/logo.png" alt="decipher logo" />
                 <span className="whitespace-nowrap text-white font-bold">
-                  DE-FERENCE&apos;<span className="font-normal">24</span>
+                  DE-FERENCE&apos;<span className="font-normal">25</span>
                 </span>
               </div>
             </Link>

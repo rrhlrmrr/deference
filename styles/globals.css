@@ -44,10 +44,6 @@ body {
   }
 }
 
-/* .container{
-  max-width: 1400px;
-} */
-
 @media (max-width: 992px) {
   .container {
     padding-left: 1rem;
@@ -232,7 +228,6 @@ body {
   }
 }
 
-/* title styles */
 .home-title span {
   position: relative;
   overflow: hidden;
@@ -294,9 +289,9 @@ body {
 }
 
 .hoverEffect {
-  transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+  transition: transform 0.3s ease-in-out;
 }
 
 .hoverEffect:hover {
-  transform: scale(1.1); /* Scale the image by 10% on hover */
+  transform: scale(1.1);
 }

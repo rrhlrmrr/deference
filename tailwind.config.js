@@ -28,9 +28,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        ...colors,
         dark: dark,
         gray: "#D7DFE0",
+        sky: colors.sky,
+        stone: colors.stone,
+        neutral: colors.neutral,
+        slate: colors.slate,
       },
     },
     screens: {

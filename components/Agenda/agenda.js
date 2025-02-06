@@ -56,15 +56,15 @@ function Agenda({ city }) {
                         ))}
                     </div>
                   </div>
-                  <div className="flex justify-between lg:flex-col w-[75%] lg:w-full">
-                    <div className="w-[50%] lg:w-full">
-                      <Paragraph typeStyle="body-sm" className="">
+                  <div className="flex justify-between lg:flex-col w-[75%] lg:w-full ">
+                    <div className="w-[50%] lg:w-full ">
+                      <Paragraph typeStyle="body-sm" className="text-[22px]">
                         {talk.type}
                       </Paragraph>
                       <Heading
                         level="h3"
                         typeStyle="heading-md-semibold"
-                        className="mt-[23px] text-white text-[20px] sm:text-[18px]"
+                        className="mt-[23px] text-white text-[28px] sm:text-[18px]"
                       >
                         {talk.session}
                       </Heading>

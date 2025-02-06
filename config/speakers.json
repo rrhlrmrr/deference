@@ -9,99 +9,99 @@
     "city": "2025",
     "agenda": [
       {
-        "session": "파트1",
+        "session": "A Leap into Reality",
         "type": "Part 01"
       },
       {
-        "time": "11:00 AM - 11:10 AM",
-        "type": "Opening Ceremony"
+        "time": "10:30 - 10:40",
+        "type": "Opening: Welcome Speech"
       },
       {
-        "time": "11:10 AM - 11:40 AM",
-        "session": "디사이퍼 세션",
-        "speaker": 10,
+        "time": "10:40 - 11:10",
+        "session": "주제 미정",
+        "speaker": 1,
         "type": "Keynote Speech"
       },
       {
-        "time": "11:40 AM - 12:15 PM",
-        "session": "Team: 디사이퍼",
+        "time": "11:10 - 11:40",
+        "session": "Team: The Future of Payment",
         "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "12:15 PM - 12:50 PM",
-        "session": "Team: 디사이퍼",
-        "speaker": 5,
+        "time": "11:40 - 12:10",
+        "session": "Team: Web3 Regulation",
+        "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "12:50 PM - 1:40 PM",
+        "time": "12:10 - 12:40",
+        "session": "AI Agent : Forbes 30 under 30 2025",
+        "speaker": [2, 3],
+        "type": "Panel Discussion"
+      },
+      {
+        "time": "12:40 - 13:30",
         "session": "",
         "type": "Lunch & Networking"
       },
       {
-        "session": "파트2",
+        "session": "Beyond the Trade-Off",
         "type": "Part 02"
       },
       {
-        "time": "1:40 PM - 2:10 PM",
-        "session": "디사이퍼2",
-        "speaker": 8,
+        "time": "13:30 - 14:00",
+        "session": "주제 미정",
+        "speaker": 1,
         "type": "Keynote Speech"
       },
       {
-        "time": "2:10 PM - 2:45 PM",
-        "session": "디사이퍼2",
-        "speaker": 3,
+        "time": "14:00 - 14:30",
+        "session": "Nonseipher: Paper Review Lab Seminar",
+        "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "2:45 PM - 3:20 PM",
-        "session": "디사이퍼2",
-        "speaker": 7,
+        "time": "14:30 - 15:00",
+        "session": "Cosmbench",
+        "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "3:20 PM - 3:50 PM",
-        "session": "디사이퍼2",
-        "speaker": [12, 13, 14, 15],
+        "time": "15:30 - 16:00",
+        "session": "Performance vs. Decentralization?",
+        "speaker": [2, 3],
         "type": "Panel Discussion"
       },
       {
-        "time": "3:50 PM - 4:10 PM",
+        "time": "16:00 - 16:30",
         "session": "",
         "type": "Break"
       },
       {
-        "session": "파트3",
+        "session": "Your Data, Your Decision",
         "type": "Part 03"
       },
       {
-        "time": "4:10 PM - 4:40 PM",
-        "session": "디사이퍼3",
-        "speaker": 9,
+        "time": "16:30 - 17:00",
+        "session": "주제 미정",
+        "speaker": 1,
         "type": "Keynote Speech"
       },
       {
-        "time": "4:40 PM - 5:15 PM",
-        "session": "디사이퍼3",
-        "speaker": 6,
+        "time": "17:00 - 17:30",
+        "session": "Nonseipher: Paper Review Lab Seminar",
+        "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "5:15 PM - 5:50 PM",
-        "session": "디사이퍼3",
-        "speaker": 4,
+        "time": "17:30 - 18:00",
+        "session": "Blind Computations Stack",
+        "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "5:50 PM - 6:20 PM",
-        "session": "디사이퍼3",
-        "speaker": [2, 11, 16, 17],
-        "type": "Panel Discussion"
-      },
-      {
-        "time": "6:20 PM - 6:30 PM",
+        "time": "18:00 - 18:10",
         "session": "",
         "type": "Closing Remarks"
       }

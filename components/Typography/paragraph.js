@@ -19,6 +19,9 @@ export default function Paragraph({
     case "body-sm":
       classNames = `text-sm ${fontWeight} ${className || ""}`;
       break;
+    case "body-st":
+      classNames = `text-[22px] ${fontWeight} ${className || ""}`;
+      break;
     default:
       classNames = `text-lg font-regular ${className || ""}`;
   }

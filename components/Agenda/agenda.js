@@ -58,7 +58,7 @@ function Agenda({ city }) {
                   </div>
                   <div className="flex justify-between lg:flex-col w-[75%] lg:w-full ">
                     <div className="w-[50%] lg:w-full ">
-                      <Paragraph typeStyle="body-sm" className="text-[22px]">
+                      <Paragraph typeStyle="body-st" className="">
                         {talk.type}
                       </Paragraph>
                       <Heading

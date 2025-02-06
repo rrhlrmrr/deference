@@ -64,7 +64,7 @@ function Agenda({ city }) {
                       <Heading
                         level="h3"
                         typeStyle="heading-md-semibold"
-                        className="mt-[23px] text-white text-[28px] sm:text-[18px]"
+                        className="mt-[23px] text-white text-[25px] sm:text-[25px]"
                       >
                         {talk.session}
                       </Heading>

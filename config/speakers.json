@@ -18,30 +18,22 @@
       },
       {
         "time": "10:40 - 11:10",
-        "session": "주제 미정",
-        "speaker": 1,
+        "session": "Solana Foundation & Superteam Korea",
         "type": "Keynote Speech"
       },
       {
-        "time": "11:10 - 11:40",
+        "time": "11:10 - 11:55",
         "session": "Team: The Future of Payment",
-        "speaker": 1,
+        "speaker": 2,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "11:40 - 12:10",
-        "session": "Team: Web3 Regulation",
-        "speaker": 1,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "12:10 - 12:40",
+        "time": "11:55 - 12:25",
         "session": "AI Agent : Forbes 30 under 30 2025",
-        "speaker": [2, 3],
         "type": "Panel Discussion"
       },
       {
-        "time": "12:40 - 13:30",
+        "time": "12:25 - 13:15",
         "session": "",
         "type": "Lunch & Networking"
       },
@@ -50,31 +42,29 @@
         "type": "Part 02"
       },
       {
-        "time": "13:30 - 14:00",
-        "session": "주제 미정",
-        "speaker": 1,
+        "time": "13:15 - 13:45",
+        "session": "Initia",
         "type": "Keynote Speech"
       },
       {
         "time": "14:00 - 14:30",
-        "session": "Nonseipher: Paper Review Lab Seminar",
-        "speaker": 1,
+        "session": "Cosmbench",
+        "speaker": 4,
         "type": "Decipher Team Presentation"
       },
       {
         "time": "14:30 - 15:00",
-        "session": "Cosmbench",
+        "session": "Nonseipher(Paper Review Lab Seminar)",
         "speaker": 1,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "15:30 - 16:00",
-        "session": "Performance vs. Decentralization?",
-        "speaker": [2, 3],
+        "time": "15:00 - 15:30",
+        "session": "Scaling for Tomorrow",
         "type": "Panel Discussion"
       },
       {
-        "time": "16:00 - 16:30",
+        "time": "15:30 - 16:15",
         "session": "",
         "type": "Break"
       },
@@ -83,338 +73,61 @@
         "type": "Part 03"
       },
       {
-        "time": "16:30 - 17:00",
-        "session": "주제 미정",
-        "speaker": 1,
+        "time": "15:45 - 16:15",
+        "session": "Sui",
         "type": "Keynote Speech"
       },
       {
-        "time": "17:00 - 17:30",
-        "session": "Nonseipher: Paper Review Lab Seminar",
-        "speaker": 1,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "17:30 - 18:00",
+        "time": "16:15 - 17:00",
         "session": "Blind Computations Stack",
-        "speaker": 1,
+        "speaker": 5,
         "type": "Decipher Team Presentation"
       },
       {
-        "time": "18:00 - 18:10",
+        "time": "17:00 - 17:45",
+        "session": "TGE Strategy",
+        "speaker": 3,
+        "type": "Decipher Team Presentation"
+      },
+      {
+        "time": "17:45 - 18:00",
         "session": "",
         "type": "Closing Remarks"
       }
     ],
     "lists": [
       {
-        "name": "김상엽",
-        "title": "President of Decipher",
-        "img": "/img/speakers/kim-sangyeop.png"
+        "name": "문보설",
+        "title": "Member of Decipher",
+        "img": "/img/speakers/boseol.jpeg"
       },
-
       {
-        "name": "박찬우",
+        "name": "김채린",
         "title": "Vice President of Decipher",
-        "img": "/img/speakers/park-chanwoo.jpeg"
+        "img": "/img/speakers/chaerin.jpeg"
       },
-
       {
-        "name": "강민영",
+        "name": "최재우",
         "title": "Member of Decipher",
-        "img": "/img/speakers/kang-minyoung.jpeg"
+        "img": "/img/speakers/jaewoo.jpeg"
       },
-
       {
-        "name": "유인선",
+        "name": "송만섭",
         "title": "Member of Decipher",
-        "img": "/img/speakers/yoo-insun.png"
+        "img": "/img/speakers/mansub.jpeg"
       },
-
       {
-        "name": "윤정수",
+        "name": "Vladislav Lenskii",
         "title": "Member of Decipher",
-        "img": "/img/speakers/yoon-jeongsoo.jpeg"
-      },
-
-      {
-        "name": "장재석",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/jang-jaeseok.png"
-      },
-
-      {
-        "name": "진수민",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/jin-sumin.jpeg"
-      },
-
-      {
-        "name": "장기덕",
-        "title": "Product Lead & Co-Founder of ATIV",
-        "img": "/img/speakers/jang-gideok.jpeg"
-      },
-
-      {
-        "name": "한주만",
-        "title": "CTO of A41",
-        "img": "/img/speakers/han-jooman.jpeg"
-      },
-
-      {
-        "name": "김남웅",
-        "title": "CEO of Four Pillars",
-        "img": "/img/speakers/kim-namwoong.jpeg"
-      },
-
-      {
-        "name": "장혁수",
-        "title": "Infrastructure Team Lead at A41",
-        "img": "/img/speakers/jang-hyeoksoo.jpeg"
-      },
-
-      {
-        "name": "김태완",
-        "title": "CEO of Superwalk",
-        "img": "/img/speakers/kim-taewan.jpeg"
-      },
-
-      {
-        "name": "문건기",
-        "title": "CEO of Haechi Labs",
-        "img": "/img/speakers/moon-gungi.jpeg"
-      },
-
-      {
-        "name": "이승화",
-        "title": "Research Lead at Despread",
-        "img": "/img/speakers/lee-seunghwa.jpeg"
-      },
-
-      {
-        "name": "이병헌",
-        "title": "Software Engineer at CPLabs",
-        "img": "/img/speakers/lee-byeonghun.jpeg"
-      },
-
-      {
-        "name": "김재원",
-        "title": "Research Lead at Xangle",
-        "img": "/img/speakers/kim-jaewon.jpeg"
-      },
-
-      {
-        "name": "변주웅",
-        "title": "Product Manager at Four Pillars",
-        "img": "/img/speakers/byeon-joowoong.jpeg"
+        "img": "/img/speakers/vlad.jpeg"
       }
     ]
   },
   {
     "location": "Deference",
     "city": "2024",
-    "agenda": [
-      {
-        "session": "블록체인 생태계에 공헌하다.",
-        "type": "Part 01"
-      },
-      {
-        "time": "11:00 AM - 11:10 AM",
-        "type": "Opening Ceremony"
-      },
-      {
-        "time": "11:10 AM - 11:40 AM",
-        "session": "Four Pillars",
-        "speaker": 10,
-        "type": "Keynote Speech"
-      },
-      {
-        "time": "11:40 AM - 12:15 PM",
-        "session": "Team: 오픈소스워리어즈",
-        "speaker": 1,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "12:15 PM - 12:50 PM",
-        "session": "Team: 비트 위의 나그네~",
-        "speaker": 5,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "12:50 PM - 1:40 PM",
-        "session": "",
-        "type": "Lunch & Networking"
-      },
-      {
-        "session": "블록체인, 대중에게 다가서다.",
-        "type": "Part 02"
-      },
-      {
-        "time": "1:40 PM - 2:10 PM",
-        "session": "ATIV",
-        "speaker": 8,
-        "type": "Keynote Speech"
-      },
-      {
-        "time": "2:10 PM - 2:45 PM",
-        "session": "Team: 실물자산 RWA 프론티어",
-        "speaker": 3,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "2:45 PM - 3:20 PM",
-        "session": "Team: The Data Says 대세는 오시옷!",
-        "speaker": 7,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "3:20 PM - 3:50 PM",
-        "session": "Mass Adoption의 선봉장은 누가 될 것인가 (Infra vs Application)",
-        "speaker": [12, 13, 14, 15],
-        "type": "Panel Discussion"
-      },
-      {
-        "time": "3:50 PM - 4:10 PM",
-        "session": "",
-        "type": "Break"
-      },
-      {
-        "session": "블록체인 인프라의 현재와 미래를 말하다.",
-        "type": "Part 03"
-      },
-      {
-        "time": "4:10 PM - 4:40 PM",
-        "session": "A41",
-        "speaker": 9,
-        "type": "Keynote Speech"
-      },
-      {
-        "time": "4:40 PM - 5:15 PM",
-        "session": "Team: L2, a Hub of L3s",
-        "speaker": 6,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "5:15 PM - 5:50 PM",
-        "session": "Team: 모바일로 증명하는 ZK-Rollup?!",
-        "speaker": 4,
-        "type": "Decipher Team Presentation"
-      },
-      {
-        "time": "5:50 PM - 6:20 PM",
-        "session": "블록체인은 뭉쳐야 사냐, 흩어져야 사나? (Monolithic vs Modular)",
-        "speaker": [2, 11, 16, 17],
-        "type": "Panel Discussion"
-      },
-      {
-        "time": "6:20 PM - 6:30 PM",
-        "session": "",
-        "type": "Closing Remarks"
-      }
-    ],
-    "lists": [
-      {
-        "name": "김상엽",
-        "title": "President of Decipher",
-        "img": "/img/speakers/kim-sangyeop.png"
-      },
-
-      {
-        "name": "박찬우",
-        "title": "Vice President of Decipher",
-        "img": "/img/speakers/park-chanwoo.jpeg"
-      },
-
-      {
-        "name": "강민영",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/kang-minyoung.jpeg"
-      },
-
-      {
-        "name": "유인선",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/yoo-insun.png"
-      },
-
-      {
-        "name": "윤정수",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/yoon-jeongsoo.jpeg"
-      },
-
-      {
-        "name": "장재석",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/jang-jaeseok.png"
-      },
-
-      {
-        "name": "진수민",
-        "title": "Member of Decipher",
-        "img": "/img/speakers/jin-sumin.jpeg"
-      },
-
-      {
-        "name": "장기덕",
-        "title": "Product Lead & Co-Founder of ATIV",
-        "img": "/img/speakers/jang-gideok.jpeg"
-      },
-
-      {
-        "name": "한주만",
-        "title": "CTO of A41",
-        "img": "/img/speakers/han-jooman.jpeg"
-      },
-
-      {
-        "name": "김남웅",
-        "title": "CEO of Four Pillars",
-        "img": "/img/speakers/kim-namwoong.jpeg"
-      },
-
-      {
-        "name": "장혁수",
-        "title": "Infrastructure Team Lead at A41",
-        "img": "/img/speakers/jang-hyeoksoo.jpeg"
-      },
-
-      {
-        "name": "김태완",
-        "title": "CEO of Superwalk",
-        "img": "/img/speakers/kim-taewan.jpeg"
-      },
-
-      {
-        "name": "문건기",
-        "title": "CEO of Haechi Labs",
-        "img": "/img/speakers/moon-gungi.jpeg"
-      },
-
-      {
-        "name": "이승화",
-        "title": "Research Lead at Despread",
-        "img": "/img/speakers/lee-seunghwa.jpeg"
-      },
-
-      {
-        "name": "이병헌",
-        "title": "Software Engineer at CPLabs",
-        "img": "/img/speakers/lee-byeonghun.jpeg"
-      },
-
-      {
-        "name": "김재원",
-        "title": "Research Lead at Xangle",
-        "img": "/img/speakers/kim-jaewon.jpeg"
-      },
-
-      {
-        "name": "변주웅",
-        "title": "Product Manager at Four Pillars",
-        "img": "/img/speakers/byeon-joowoong.jpeg"
-      }
-    ]
+    "agenda": [],
+    "lists": []
   },
   {
     "location": "Deference",

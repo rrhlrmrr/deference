@@ -20,7 +20,7 @@ export default function Paragraph({
       classNames = `text-sm ${fontWeight} ${className || ""}`;
       break;
     case "body-st":
-      classNames = `text-[22px] ${fontWeight} ${className || ""}`;
+      classNames = `text-[18px] ${fontWeight} ${className || ""}`;
       break;
     default:
       classNames = `text-lg font-regular ${className || ""}`;

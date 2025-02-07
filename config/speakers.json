@@ -26,12 +26,17 @@
         "time": "11:10 - 11:55",
         "session": "Team: The Future of Payment",
         "speaker": 2,
-        "type": "Decipher Team Presentation"
+        "type": "Presentation"
       },
       {
         "time": "11:55 - 12:25",
         "session": "AI Agent : Forbes 30 under 30 2025",
         "type": "Panel Discussion"
+      },
+      {
+        "time": "12:25 - 12:30",
+        "session": "Alumni book release - why blockchain",
+        "type": "Presentation"
       },
       {
         "time": "12:25 - 13:15",
@@ -52,13 +57,13 @@
         "time": "14:00 - 14:30",
         "session": "Cosmbench",
         "speaker": 4,
-        "type": "Decipher Team Presentation"
+        "type": "Presentation"
       },
       {
         "time": "14:30 - 15:00",
         "session": "Nonseipher(Paper Review Lab Seminar)",
         "speaker": 1,
-        "type": "Decipher Team Presentation"
+        "type": "Presentation"
       },
       {
         "time": "15:00 - 15:30",
@@ -84,18 +89,18 @@
         "time": "16:15 - 17:00",
         "session": "Blind Computations Stack",
         "speaker": [5, 6],
-        "type": "Decipher Team Presentation"
+        "type": "Presentation"
       },
       {
         "time": "17:00 - 17:45",
         "session": "TGE Strategy",
         "speaker": 3,
-        "type": "Decipher Team Presentation"
+        "type": "Presentation"
       },
       {
         "time": "17:45 - 18:00",
-        "session": "",
-        "type": "Closing Remarks"
+        "session": "Farewell Address",
+        "type": "Closing"
       }
     ],
     "lists": [

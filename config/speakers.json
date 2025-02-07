@@ -80,7 +80,7 @@
       {
         "time": "16:15 - 17:00",
         "session": "Blind Computations Stack",
-        "speaker": 5,
+        "speaker": [5, 6],
         "type": "Decipher Team Presentation"
       },
       {
@@ -120,6 +120,11 @@
         "name": "Vladislav Lenskii",
         "title": "Member of Decipher",
         "img": "/img/speakers/vlad.jpeg"
+      },
+      {
+        "name": "이태훈",
+        "title": "Education Lead of Decipher",
+        "img": "/img/speakers/taehun.jpeg"
       }
     ]
   },

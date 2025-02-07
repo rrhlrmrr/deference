@@ -102,7 +102,7 @@ function Header() {
               </div>
               <div className="mt-[54px] relative flex items-center justify-center">
                 <a
-                  href="https://event-us.kr/decipherglobal/event/77967"
+                  href="https://lu.ma/deference-2025"
                   target="_blank"
                   rel="noreferrer"
                 >

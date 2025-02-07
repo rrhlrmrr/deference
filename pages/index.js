@@ -65,7 +65,7 @@ export default function Home() {
         </div>
 
         <div id="sponsors">
-          <Sponsors sponsors={[{ img: "/img/spon.png", link: "" }]} />
+          <Sponsors sponsors={[{ img: "/img/sponsors.png", link: "" }]} />
         </div>
         <div className="">
           <Subcription />

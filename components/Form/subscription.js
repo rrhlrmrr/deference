@@ -9,7 +9,7 @@ function Subcription() {
           Subscribe for DE-FERENCE 2025 updates!
         </h3>
         <a
-          href="https://www.deference.co.kr/newsletter"
+          href="http://www.youtube.com/@decipher-media"
           target="_blank"
           rel="noreferrer"
           className="sm:w-full"

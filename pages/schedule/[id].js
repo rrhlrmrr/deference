@@ -150,7 +150,7 @@ function Venue({ city }) {
         id="sponsors"
         className="border border border-x-0 border-b-0 border-[#333] py-28"
       >
-        <Sponsors sponsors={[{ img: "/img/spon.png", link: "" }]} />
+        <Sponsors sponsors={[{ img: "/img/sponsors.png", link: "" }]} />
       </div>
     </div>
   );

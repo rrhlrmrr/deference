@@ -62,7 +62,7 @@ function Venue({ city }) {
             ) : (
               <div className="m-[30px]">
                 {city.ticket !== "" && (
-                  <a href={city.ticket} target="_blank" rel="noreferrer">
+                  <a href="https://www.youtube.com/live/OgBq8PG0Xmk?si=18CzHKZrQbInT6Da" target="_blank" rel="noreferrer">
                     <Button className="px-8 m-2">{city.buttonText}</Button>
                   </a>
                 )}

@@ -40,7 +40,7 @@ function About() {
               <br />
               <br /> 2025년 2월 15일 드림플러스 강남에서 열리는 제 8회
               디퍼런스는
-              <strong>"Towards a Seamless Future of Blockchain"</strong>이라는
+              <strong>&quot;Towards a Seamless Future of Blockchain&quot;</strong>이라는
               주제로 진행됩니다. 본 컨퍼런스에서는 블록체인의 최신 기술 트렌드,
               AI와의 접목, 그리고 실용적인 연구 성과를 공유하며 블록체인의
               미래를 조망할 예정입니다.

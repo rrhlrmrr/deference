@@ -70,7 +70,7 @@ function Agenda({ city }) {
                       </Heading>
                     </div>
                     {talk.speaker && typeof talk.speaker === "number" ? (
-                      <div className="flex items-center ml-3 lg:mt-4">
+                      <div className="flex items-center lg:mt-4">
                         <div className="w-[94px] h-[94px]">
                           <img
                             src={city.speakers[talk.speaker - 1].img}

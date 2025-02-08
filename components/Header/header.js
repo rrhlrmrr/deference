@@ -78,16 +78,17 @@ function Header() {
             />
           </div>
         </div>
-        <div className="w-[1131px] pb-8 z-99">
+        <div className="w-[1555px] pb-8 z-99">
           <div className="flex justify-center w-full mt-12">
             <div className="flex flex-col justify-center items-center w-full">
-              <div className="w-[712px] sm:w-full text-center">
+              <div className="w-[912px] sm:w-full text-center">
                 <Heading
                   className="countdown-text-gradient text-7xl sm:text-4xl leading-normal sm:leading-38px tracking-[-3px] sm:tracking-[-0.02em] font-extrabold"
                   level="h1"
                   typeStyle="heading"
                 >
-                  DE-FERENCE 2025: Towards a Seamless Future
+                  DE-FERENCE 2025: <br />
+                  Towards a Seamless Future
                 </Heading>
               </div>
               <div className="w-[750px] sm:w-full text-center">

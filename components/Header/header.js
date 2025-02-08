@@ -87,7 +87,7 @@ function Header() {
                   level="h1"
                   typeStyle="heading"
                 >
-                  DE-FERENCE 2025: Proof of Contribution
+                  DE-FERENCE 2025: Towards a Seamless Future
                 </Heading>
               </div>
               <div className="w-[750px] sm:w-full text-center">
